@@ -21,12 +21,12 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * python app.py
 
 # Some screenshots of the app
-* [img](githubimgs/landingpage.png)
-* [About](githubimgs/about.png)
-* [Dashboard](githubimgs/dashboard.png)
-* [Developer](githubimgs/developer.png)
-* [Predictor](githubimgs/predictor.png)
-* [Result](githubimgs/result.png)
+* ![img](githubimgs/landingpage.png)
+* ![About](githubimgs/about.png)
+* ![Dashboard](githubimgs/dashboard.png)
+* ![Developer](githubimgs/developer.png)
+* ![Predictor](githubimgs/predictor.png)
+* ![Result](githubimgs/result.png)
 
 # Workflow
 
