@@ -57,7 +57,8 @@ Pygments==2.8.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
-pywin32==300
+pytz
+pywin32
 pywinpty==0.5.7
 pyzmq==22.0.3
 qtconsole==5.0.2
@@ -67,7 +68,7 @@ scikit-learn==0.24.1
 scipy==1.5.4
 seaborn==0.11.1
 Send2Trash==1.5.0
-Six==1.15.0
+Six
 terminado==0.9.2
 testpath==0.4.4
 threadpoolctl==2.1.0
