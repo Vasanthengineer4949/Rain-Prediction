@@ -3,7 +3,6 @@ async-generator==1.10
 attrs==20.3.0
 backcall==0.2.0
 bleach==3.3.0
-catboost @ https://pypi.org/packages/cp36/c/catboost/catboost-0.24.4-cp36-none-win_amd64.whl
 certifi==2020.12.5
 cffi==1.14.5
 click==7.1.2
